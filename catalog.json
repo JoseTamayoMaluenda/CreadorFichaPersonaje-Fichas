@@ -7,7 +7,7 @@
       "name": "El juicio del diablo",
       "author": "JoseTamayoMaluenda",
       "gamebook": "El juicio del diablo",
-      "description": "Ficha de muestra con dos hojas: atributos y notas.",
+      "description": "Ficha de personaje para el librojuego El juicio del diablo.",
       "version": 1,
       "package": "packages/el-juicio-del-diablo.ficha",
       "thumbnail": "previews/el-juicio-del-diablo.jpg",
