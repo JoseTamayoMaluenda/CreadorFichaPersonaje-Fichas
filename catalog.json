@@ -1,17 +1,5 @@
 {
   "format": "creador-ficha-catalogue",
   "version": 1,
-  "sheets": [
-    {
-      "id": "el-juicio-del-diablo",
-      "name": "El juicio del diablo",
-      "author": "JoseTamayoMaluenda",
-      "gamebook": "El juicio del diablo",
-      "description": "Ficha de personaje para el librojuego El juicio del diablo.",
-      "version": 1,
-      "package": "packages/el-juicio-del-diablo.ficha",
-      "thumbnail": "previews/el-juicio-del-diablo.jpg",
-      "sha256": "d3a224f9ce4643c66580bb51d9504ea2d1b24ef9425bb8fde4f8666f4ebe362e"
-    }
-  ]
+  "sheets": []
 }
